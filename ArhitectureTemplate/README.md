@@ -1,6 +1,6 @@
 # Simple clean Arhitecture for writing REST APIs using dotnet core cli
 ## Structure:
-![Arhitecture](../Arhitecture.png)
+![Arhitecture](../ArhitectureTemplate/Arhitecture.png)
 ## Recreate:
 * Create the projects
 ``` 
